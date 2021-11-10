@@ -1,7 +1,8 @@
 plugins {
     id 'com.android.library'
 }
-
+apply plugin: 'com.github.dcendents.android-maven'    // 添加本行
+group='com.github.18251042280'    // 添加本行
 android {
     compileSdkVersion 30
     buildToolsVersion '30.0.3'
