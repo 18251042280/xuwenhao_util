@@ -1,0 +1,2 @@
+rootProject.name = "xuwenhao_util"
+include ':app'
