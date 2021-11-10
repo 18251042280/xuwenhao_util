@@ -5,12 +5,12 @@ apply plugin: 'com.github.dcendents.android-maven'    // 添加本行
 group='com.github.18251042280'    // 添加本行
 android {
     compileSdkVersion 31
-    buildToolsVersion "31.0.0"
+    buildToolsVersion '30.0.3'
 
     defaultConfig {
 //        applicationId "com.bawei.xuwenhao_util"
         minSdkVersion 24
-        targetSdkVersion 31
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
 
